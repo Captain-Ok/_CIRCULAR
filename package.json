@@ -1,5 +1,6 @@
 {
   "name": "package.json",
+  "homepage": "https://captain-ok.github.io/_circular/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
